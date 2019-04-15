@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+    <string name="number_guessing_game">Number Guessing Game!</string>
+    <string name="press_the_button_and_earn_a_point_if_you_want_to_get_in_to_berkeley">Press the button and earn a point
+        if you want to get in to Berkeley!
+    </string>
+    <string name="left_button">0</string>
+    <string name="right_button">0</string>
+    <string name="points">Points: 0</string>
+</resources>
